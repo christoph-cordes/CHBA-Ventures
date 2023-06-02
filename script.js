@@ -10,7 +10,7 @@ myButton.addEventListener("click", () => {
 	const audio = new Audio('sound.mp3');
 	audio.play();
   // myButton.style.visibility = "hidden"
-  myButton.innerText = 'Great-next'
+  myButton.innerText = 'Great-next sound'
 });
 
 const vespaPhotos = document.querySelector("#scooter");
