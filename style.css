@@ -22,7 +22,10 @@ h2 {
 	align-items: center;
 	justify-content: center;
 }
-
+.models {
+	padding-left: 100px;
+    	padding-top: 30px
+}
 .banner h1 {
 	text-align: center;
 	font-size: 60px;
